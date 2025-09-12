@@ -65,7 +65,9 @@ fun MyApp() {
             modifier = Modifier.fillMaxSize(),
             color = MaterialTheme.colorScheme.background
         ) {
-            ProfileCard()
+            //ProfileCard()
+            //RowColumnWeightExample()
+            ColorBoxExample()
         }
     }
 }
