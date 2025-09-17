@@ -67,7 +67,8 @@ fun MyApp() {
         ) {
             //ProfileCard()
             //RowColumnWeightExample()
-            ColorBoxExample()
+           // ColorBoxExample()
+            PersonList()
         }
     }
 }
